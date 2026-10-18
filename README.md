@@ -1,2 +1,23 @@
-# classhelm-releases
-ClassHelm public desktop installers and checksums. No source code or device configuration.
+# ClassHelm · 课堂领航
+
+ClassHelm 免费桌面应用发行仓库。下载请前往本仓库 Releases。
+
+这里只发布安装包、SHA256校验值与公开说明，不包含应用源代码、教师身份、证书私钥、学生授权、维护密码或设备配置。免费使用不代表源码开源。
+
+## 本次公开测试版本
+
+- 教师：0.1.20，Windows x64及Mac Apple Silicon／Intel。
+- 学生：0.1.22-simple-setup，Windows安装器自动识别Intel/AMD 32／64位；Windows10/11优先，Win7／32位兼容待验，不支持Windows ARM64。
+- 只读巡课：0.1.19，Windows x64及Mac Apple Silicon／Intel。
+
+## 安装和使用前
+
+保存工作、结束课堂／查看，使用原系统账户升级。Windows双击Setup；Mac打开DMG，拖入Applications。学生需.NET Framework 4.8与管理员许可；首次教师或巡课身份须由管理员核对后批准，不自动授权。
+
+仅用于获得设备所有者或机构授权的教学设备。看屏有可见提示，不保存录像。校长巡课只有只读权限，不接管教师课堂。
+
+本批仍为测试候选，未完成机构正式签名／Mac公证。系统阻止时交管理员审查，不关闭安全防护。先一台验收安装、升级、取消、恢复卸载，再逐步扩大，不把编译或归档校验当成实机通过。
+
+学生卸载先恢复策略和注销服务，失败保留恢复工具；配置、密码、日志和恢复文件保留，不是零残留删除。下载速度与可用性取决于网络，无法承诺国内稳定高速。
+
+请按 SHA256SUMS.txt 核验文件，避免使用来源不明的修改版或下载代理。
