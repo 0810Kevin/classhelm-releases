@@ -1,6 +1,6 @@
 # ClassHelm · 课堂领航
 
-[官网及三端下载](https://u2js61.kicp.fun/) · [0.1.23公开测试发行](https://github.com/0810Kevin/classhelm-releases/releases/tag/desktop-2026-10-22-r2)
+[官网及三端下载](https://26rybb.kicp.fun/) · [0.1.23公开测试发行](https://github.com/0810Kevin/classhelm-releases/releases/tag/desktop-2026-10-22-r2)
 
 免费、公开、免登录下载安装包。本仓库只分发安装包、更新包、校验值与公开说明，应用源码不在此仓库。
 
