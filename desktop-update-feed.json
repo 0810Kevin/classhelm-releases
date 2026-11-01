@@ -6,72 +6,72 @@
       "role": "teacher",
       "platform": "darwin",
       "arch": "arm64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Teacher-mac-arm64-1.0.11.zip",
-      "size": 129814810,
-      "sha256": "03fd86c7743e01964ae489134e3105b855dd4d890c2275c91bc03ab2e3b95d0f",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Teacher-mac-arm64-1.0.12.zip",
+      "size": 128593464,
+      "sha256": "5df84644d3c4be23a009010c4fb0082bd2cde556fb5a885570b288fda81efbf7",
       "format": "mac-zip",
-      "signature": "r7cM3/q+jiWo04DPQ0chspvrrWXyWNtMcGw9Urc6+lgtFsnmHp+NrMv07SP50I4D6rDFOlPLrw6d4pT31MM4p2hZ7TjlYjfZUmYUSRkmgYCXRj0B3rs9alorBizZu8dkm2k28EET7rGe98GkXbudyeBZc9Fm97cvYeVzocACstwLRYymgP+QNZ4z0jBzGFX1ao5nAxzPTxMqJbj513X3iaIkq0Xbwk8n6hVkYFmN8B+j7/QRWXrvOT2AvwnPn4el5ObxrBFgaOQDo+oQV2o4n7TnVD44tnG0ao7FUurkoiQvDxa/xTZM6QYvqChyzXoXl5qi6BHCkl/y6kB3QHBaHGiwltv4IsJgPVNUUTTGKZIXidDiwVftjbuiRXqr7k2yJuQHqHkNGECJSbTRi4MJ3pnI4DC/uBu/LT4qg4QygRS5kNjQskSEimUTxlBcRER52fFbRp33s6qruqK8Ue7Uc74yQC8DaM6hRaYYp37Db0auELgwd/HGuQw3rDGRYYXT"
+      "signature": "DQrYEJuV3c5q/c0e/1Ojb0s9Zr0dVudo9brnLtUvNdpHg7uJlk/FG+SNj1M0c2ig8NTMe5sHyykDiA55cur6lueP80kf+xEhMQ42I91mobJZJUmjUnuhysCUurx64NGokH3lu0ZhTV1xiCG3I2KWEDpYsS7OXHp4a4omCGsOc3E44X1oVhikAyEoDLfuIvg4//CftPj1jkFXEow1FPZBU5pEQOoUSGmMA04XECT/QnKWWuDQgRgAvE6MexNSanpYCHhBLEk4wUTbX9vC0XLgIl3ldHlxSm8t9WHayvoLv9zpd6nXfnbMt5z2AcFEQ3KZSb96rxL8+ObL/B3AkQFhz0ozuCJviWemHz8ALsB93TbBgJh+jZiyvL5E6OSv1HWKX3256YwSxGQUk2MoEU1QFKlq99Fu9PRu9H1UE7LTqqkHE7aKOVniOmJudCKjkyPGjd/zWuq8Go/K1VwJCkyHhGng4NOpfz8MT6452QJDO0C79uCIDc8z6PaasNLk01/A"
     },
     {
       "protocol": 1,
       "role": "teacher",
       "platform": "darwin",
       "arch": "x64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Teacher-mac-x64-1.0.11.zip",
-      "size": 133761873,
-      "sha256": "be2d8c8f980931a5d8aa90a18a37fbbd48e5ab87544f1003626679904b7c218d",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Teacher-mac-x64-1.0.12.zip",
+      "size": 135626725,
+      "sha256": "ca53b6ed08339f4a96d861fca77d9f31d355e9e5728feaa3ba79bd72c481fdb6",
       "format": "mac-zip",
-      "signature": "Rj94WTUv1904oeAAbiv+k8nNrAjha7ys+KxyY7EhntJUph0Zf4OlXLYYdSN+bryMOzHJmqeogRAGpKGdnz1St/w5csrSLbGm1B4AFz5IBAz2puIYctMQkQY+KY8JgU9Q9ckufWvuGr+ZJoKEWj3c39B3hehaFx9khYKb7P8CP+iw/H5Zk4X3AAIekIIw1cxY/MiHMWp8boilbXsDNhFLmg3xURnrP0bEUbTy0vSJ09+/9L9DGyhy/Wu7S1XE9M/BPe+wgonC99tzploP8lLXHgu/Pb9QLZqQz9wS5605pq6QCfKdw5e+fcdPtmUCpXWT91fCVKZjS6jDlxPANl8ZsXVJo6qqO6ytu6xAX4WvdUdREps8UbnYR0aG4ELVFvN6M7dPrqpvm3QLh+cvNmCeiUoUwPjmLuhX7hcrY01wgXbKYij89NrAA/JbbWLq11LQlYhqQBGpFGMgMM0ieRjdIX2RYRh8qbL6KHFOtLWU6ZkX19kHUKGCCaKvcqL8kLBn"
+      "signature": "kK44Pqka0chyJ2dvF9/v3eSyDS/PUU/n3/q3DnqfelZuDhD30C9YIBCm8CDHlGlGHqz+KDlnimDDlE1sXM3MXj2tLGrkKYrto7kmPWCtm8FqWzv4U3DDw31PUPZzDtUfO0n3vQLog315ddgrcGKKN+aUWq/lvGsaTHiaX4GAMxdUM3sGlODYyDe2kegudbrgAWN7upzC0N01p/QB43qQ+6AY7ryhdr62lbh6xSnfOjhhGi2N0iWoJse9wi5TEMGyoMCvVl2UzWvIkS0R4t4u0sjewhtAwaDIASEXzWWYpu28xPjp04cpMAnhrkDSk8o2k7t2OdoeU5iL1llrgkxYQGiBLqN1nshR1J6MKkXNqy0D/HEVxiKztyIHWbkvZWFmBxMlVgxP3Bn/nZ6zdOaQteY9c2B4taB4WCXGmppQeB4VAWKHXUqAYLoOIpyi2EOz74C3u1Jj01jCr0W3JyY0RFQvI6bhXbhS/1hpB6m0jvvXigm7N7WFJIi6Sh19XOEJ"
     },
     {
       "protocol": 1,
       "role": "teacher",
       "platform": "win32",
       "arch": "x64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Teacher-Windows-x64-1.0.11-Setup.exe",
-      "size": 112971418,
-      "sha256": "e7349a75eeeea4a6782ac8d85b6df04299d675b696b714fb3205bb33220bdc94",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Teacher-Windows-x64-1.0.12-Setup.exe",
+      "size": 112971592,
+      "sha256": "980e8364789366062ab31a3a16699c9b8116062a307defebc9769728e81cf4d0",
       "format": "nsis",
-      "signature": "sHBVCqXhAwy2hfryEZlIiTJOopxRIhBIg9E+8pedA41JPw0ujwti7bWCf4pV7TxpgpVP9nTWun/BRcjwCTY1v0V9mMzSNwLeyLx4BDBVIZmRS1gKDskz2iMP8XBuBdMdtaIGXlLzc0Sg9mMZVfKU5L3mNBbLM1JaA1h0gpws6HwtSBm4jDDoeqBfJg6ymZPj69dczGFP8UbdIQ1yuuGhRQpFmmcfuXTYl2GexHre7QMTFdnrw2PAGrl19iMZa+hRa9kX9cCx9QFfMKZbtPUj/dkKNogDqVZdiRuQVHgT5OFztpPWMv/gpAX1qJk+1hmtDUBCqm/qm0xvYQbjBSX6GYBZYAdCgUdYEDInLdCdP7Sh7ITA47J6q47MuQmQU+YlvpfwNlrGz9uB1LBQlE8ePeQcq5PrmG9rUBiJcWMRjdYLAdbY8TOz8FZHQuH1zhjKL5RK5xJS9cftaJNFKD56bYYnd5BsVtdo2YO0mncTNZ21FD8s91B7gN2GCuZJ6vqd"
+      "signature": "JgTSu0T93mhTuUirwxQyJDVCxNHjzoDh21XVhngrVEEn9WWInyK/2SqjIhBBXvM4sg5d4+Itwa3U76Gr1eD59w25ZyULI5bQ3FnKF9Y16hTCOZwpDR/1sDRvc40ePO99pGqHg5vYtsb32uBGTEo/q4sTC0N3DqfaC7Ha4eSRBcQgE6g/3NotH9ZwC++7z9aRO1MxNzoJJzJoFJTpE5n3EFfPiC/uLUzDV+zbPpAi9lZKsy6l5fUTY5CYmrv2wRcBtU430fsR7lORleC6K/DRMrV0+suQIsIfdNeTcP2ys4yO2GCkTEo5wxxVv0LgYSRe0+m5ehRtFYuT7KhT1d+YoAOCcR7CaspwtU2QLhziXQ0sLz3u2S3snt2iCOcm9wpVkqwhyptKwwJqcEOnfgrGr1w/voF9ve19OzKhyJf+SOyirvUGRFmBL4NhhCWtf/UpDiP+aBDQbMxAxehxf9kjrsrycFVU6GVKt6LJ2JAVbjsEPqoHwrZycYaMi7fVzKnP"
     },
     {
       "protocol": 1,
       "role": "inspector",
       "platform": "darwin",
       "arch": "arm64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Inspector-mac-arm64-1.0.11.zip",
-      "size": 129839599,
-      "sha256": "75b35f0f47b221fcc2d993439be93e1dca98595ddba56648d0dbf86d16f7cb00",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Inspector-mac-arm64-1.0.12.zip",
+      "size": 128619435,
+      "sha256": "228b6620bce4b296c8e12e26aa0950852a8cafeb9b7b9a32dab1d5da76b3e28a",
       "format": "mac-zip",
-      "signature": "xPecxZUfTd7cG/XHN86iDHisIgqMM0OVS3/vrpQTm5x5CIcHvNI20WxcIQLmQTdXziZgr43p9Zk/TpjrzUDQnlRElNbeUc0w8VmfsXwEAN8oiP3irCQiK8ByT7SlxPq1Dtklx7eySIau22nr8qMvLIaOG61P3sfUEmGwwMeDTPZNebieSFE2ilfXc1wva7EOCmBThVdnHhYWpWhYMWkXTdH67dJkw3/G/iLMK5LMQ6/AzCJYCn4QQtBwvXs6/TZ9HbjoYTCY6R0feg9LD5L9qhQatbhZNk0BbxLMWbZKJ1dmF28tHsfLBtB2rHRyWOGKlq0q9OcZVE1LShopasP8RH7TIy9/9OMmqPUfr06N01MsiLSrunR21YxS6T2gVQ6PPNbYmXe1+GlG3OBpk3unaTciA2XC2FygkQgXL5w5gqit2TMOXaZmUH/lqCswBUmRX1FTjQIg64Bk4GsZRPvfcnGiqWCBJDpwTDMV5D+m6tYqkL25bh9Ksluv79JkFTLN"
+      "signature": "pjdW898/+jccSBrgGrkzDDyYmC4pcsDppkUmQZ2jR0Gy6pqVmxz5m53dZto8se12YQw2f46K9S1NGFMBcy0v0PqjftkEZow2TIHXGeWp+W1a01VdJxkYJRoCqsW4Bb/cqbN54GIIDeXiWszYQ9NyPQx0o0IP8017sqhvzH++sEF3EuyhGtUBSMtcD7sow9yjid0jgoQWIA58z2fHEuUg4S9QbWUaJfXS/1hwoPtF9HgMpyxtG7gvUM9N7pqp+XZRIRMC6ruejHtaQkrScHRN9UHFKU2GCf5kcY3pKwv2+3zCOfNYiaZ0vwDEVOwhi1mXOW4GfEaoaVifJI/Kn/94ccqKCUw1PgGCpHBX/tTbp6PbjdPRl/QuQYfuFMGdGK4SX+/mHCqALcVZ/91GL1aurTp2f+ZEmDaFO+p9H2EcYRmVCWVZXWCFTi67jTmPAy8913lmM3LIw+1hcBx04C9qqHb6zMeo8tBnIhjyqZtrIJ+jXbDmoqWSu65LNuP/M37x"
     },
     {
       "protocol": 1,
       "role": "inspector",
       "platform": "darwin",
       "arch": "x64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Inspector-mac-x64-1.0.11.zip",
-      "size": 133786662,
-      "sha256": "60b7d873dd281e79c3f27192b5e292d3df188e556357e34eaa7ca94867e7d507",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Inspector-mac-x64-1.0.12.zip",
+      "size": 135652701,
+      "sha256": "f97bd525a66c6abe08ca6054e96a95f5975e30df32063d4b6a652f641bdc7f4a",
       "format": "mac-zip",
-      "signature": "Yor0JjpcN5ewhyIOjl7Ko/jhHvkcIcEZxcYqsxi/YRLCv/9GAwvZU3JkjyWvWHVCN0UAQs4QZNgC10M3bZmotOt1o1he15EZIBNdTDhwsufavcGaQDFhwhy6M0nFNBsbEQ836XzZI51ASi6gO7TNnex5RheF2WTS9wqGqNMi4VKLtiCQVWQQ8g/fSkMXIY+uHFbH9ZybykirBeQi+VX86ivfYe/tTCPzyGK9V5wTQOXNfWsVQv4FGlZopA5rbHLqEwrmHnPn0FjfVUHlmRh9IbX9Dh0NEM1BEx4l0+9VPhDU1pGkjeEs1U9z2IxKfz71uCO0HmP9TWqyfJGDySAINrCTIa2gdHGH4Ew8M5DZbzGO9DYavjSwVvyB+ouzw1xgMKgezy1vQmwCYoLT4LfpB+X+zDBZIy64CpaRehu5ck9aChDLDpGLlwLaQW+0vkU1mB9Y1UJEomfChkdbcEUXflcXZnmZ2wKo4FjSC6M8RTr5UYKPJPq+uaRlLo5xSFrg"
+      "signature": "GR32NI4E6QrgkBJRYI45Hq+ecW8bDdVIZ96eCZOjVAnWN+9MJenBIVOcwLKqrFPBSbiS39iEN4/Dyx+tvNnSbxPgScXLgq8xo5Cm14coU2GLZifD9a8RANfrvWzu/gBs1UeATUcbr7odIvMSj/C54UYzPEuUUW1lyZYr8WYmqfwUa7Di5nzTcmbi/v0Z9MaCqF6Z8e8fpSJ69fx8YzG8GpdeYFipXPfxOcSZ1ThJykbvLz4P3xqa/mUffztcC9mNUwPlta5jXC7xil6cZLoObxdBLkEu/Ooo2z0SSQaJodT0uVLj4IjENTpGb3Uxg7ICHNAEO3kdCiV45PddZB/J95f8fHGi/MQ4s24f6rWjP3I2L1QIF6XDJpZvdJWxZX34nh0Ep1/T6z1UOMeYVciEhWC8eMlzjvWZAOFLT3QRSitEo5DkjTg0eMogT9yOEszyuLmDNTy6dWBlBfpoyf+hbk8rnZN72DEBlKqfrOt9xs4uE7lQCXaWx6+NfqV/9ciH"
     },
     {
       "protocol": 1,
       "role": "inspector",
       "platform": "win32",
       "arch": "x64",
-      "version": "1.0.11",
-      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.11/ClassHelm-Inspector-Windows-x64-1.0.11-Setup.exe",
-      "size": 112972241,
-      "sha256": "f2ef45d733fea5ce3dd4d3eed9a858a42be670c41d8b8efe7281b88697129a03",
+      "version": "1.0.12",
+      "url": "https://github.com/0810Kevin/classhelm-releases/releases/download/v1.0.12/ClassHelm-Inspector-Windows-x64-1.0.12-Setup.exe",
+      "size": 112972046,
+      "sha256": "238ff821b6bc6f39d2f9c09f2827f276d9d58b1eed126e98635d8c36dacd638d",
       "format": "nsis",
-      "signature": "JJ18jT1D+cFoFjoLR7748sqiQQXiy1IISO/GenpIgR5/CNPKzG4ORgS9JBjHp1IBK17VIqPF+fhlR/ypo0TM+wvQm46765p/cLRlqReX954QkLYOZ8tciMbVZUy2+U8QZFw6Z0gdrQ1LKfivRckavn31Zu/KxksFMDUdb5vKrKUF9ebkYdaEper2rKhHUjDyVvz2lbLnUWgc52fFCfwHaje1VR836jkN3AsnF959VN7fKVNQdnDNaA497GlKYKIVNjK59C1eo+otRSgCN97Ncv5a8W7234yNe9EigkvyPzc3BxGJLAnqrlef0DDnutd6FRqWz4+pRfvlgGNmbUg7VgMHoe1MyOEgM9Ve1ZHfXo1AFfaXigHKlloq5ORoX8vq++pDjeuvtfusRX0UVSSz7MoWfItHtP927vpWSCB3knkcZFb8XgxWnxUYtd8DagZuK8P3ZBI78qEukHCWJ4wmtMOjAAINrTrWzxDi3KGH19yJN5y2hTDA0a/gj6uersx3"
+      "signature": "1FM3BB95sJ3nt4Vaz0HWsVgZ5yo64i3Ke9K7rNZsdcI8ZmpID69QCX34+Tf4HNpDwAOmGso5/pkCZsHi1l1MHidI6KAF4mHruM+TgykXEPGZFrP4FS8ULohOrs4izg0KcOrrem7jVVGP8rqKsUGdWPnTmidyyGgnfYyMWA0NZku2TOvVSfP39O2Ibg/ck5srzYaPkcBFYjD3LRRrq6JUdjkRN2fJbZ2ESJP7L6NdS5CTm0/dGNrwv7rZQ7rm9sbWJNZhFlnOYOZnrgN8c4ImgFULo092N4x7Z4SPjvpLIJZ+1aanCFsUmsmcnuu7cuyMawmcjd7dDJDp3x9p4V6oM5+QIP4FLt39v3+ja4KlnnvMXl7KyEF+qdr4d3ELWMMPvhgKc3h8huhPw3gDZtDdyV7MN8IWrkBRfBMq3LAkBdAYukUXVt1xyDN5apbzugkblNGDQCv5XvpFFQawtSFboSTMhFK9UEp7b1sKua4tMWgFecOxIS51wdzw5apbt4/y"
     }
   ]
 }
